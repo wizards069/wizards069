@@ -1,5 +1,5 @@
 - 👋 Hello world, I’m @wizards069
-- 👀 I’m trying to write clean,efficient and effective code
+- 👀 I’m writing clean,reusable,efficient and effective code
 - 🌱 I’m currently learning payment gateway API's
 - 💞️ I’m looking to collaborate on Fintech and Agriculture
 - 📫 gulfstreamservices.co.ke
